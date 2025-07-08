@@ -26,7 +26,7 @@ Solace is a terminal-based AI assistant designed to help users with day-to-day t
 - No cloud storage — all data is stored locally
 - Review commands before running (you control execution)
 
-## ✨ First-year SRM project with real-world value
+## ✨ First-year project with real-world value
 
 ---
 
