@@ -30,4 +30,4 @@ Solace is a terminal-based AI assistant designed to help users with day-to-day t
 
 ---
 
-Made with ❤️ by Sanchayan Ghosh
+Made by Sanchayan Ghosh
